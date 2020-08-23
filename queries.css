@@ -1,0 +1,19 @@
+@media (max-width : 644px){
+    form input{
+        width: 50%;
+        font-size: 1rem;
+        padding: 0.4rem;
+        margin-left: 20px;
+    }
+    .todo-list{
+        width: 75%;
+    }
+    .todo{
+        font-size: 1rem;
+    }
+}
+@media (max-width: 390px){
+    .select{
+        margin: 0;
+    }
+}
